@@ -1,0 +1,22 @@
+
+• The purpose of your program
+1) multithreaded version of MapReduce to solve the "word count statistics" using consumer and producer threads
+2) with flag option, print out log info into the file "log.txt"
+3) output result to result.txt
+
+• How to compile the program
+1）run terminal
+2）change to current directory
+3）run the command "make"
+The makefile will automatically generate a executable wcs
+
+• Any assumptions outside this document
+None
+
+
+• What exactly your program does
+phase1: create producer & consumer threads and shared queue
+phase2: producer read input and put it into the shared queue
+        consumer catch info from the queue and get the word count
+phase3: main thread output the result to a final file
+
