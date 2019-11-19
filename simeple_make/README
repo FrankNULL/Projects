@@ -26,7 +26,3 @@ parse the input makefile into an array of targets and add those targets into a g
 
 • Any assumptions outside this document
 None
-
-• Extra credit
-Yes, the program has the functionality for extra credit
-
