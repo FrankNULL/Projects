@@ -28,7 +28,7 @@ There are four phases in this project.
 
 
 
-Project 2 ----- Multiple Threads MapReduce  
+Project 3 ----- Multiple Threads MapReduce  
 
 In multithreading “word count statistics” application, the program contains: a master thread, one producer thread and many consumer threads. 
 
