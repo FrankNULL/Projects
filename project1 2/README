@@ -1,0 +1,32 @@
+/*test machine: CSELAB_apollo
+* date: 10/06/2019
+* name:  Pengyin Chen
+*/
+
+• The purpose of your program
+
+The purpose of our program is:
+1) emulate make system call to write a simple make 
+2) parse the input makefile 
+3) decide the order of recipes to execute 
+4) execute recipes for specific target
+
+• How to compile the program
+1）run terminal 
+2）change to current directory 
+3）type "make"
+The makefile will automatically generate a executable mymake
+
+• What exactly your program does
+parse the input makefile into an array of targets and add those targets into a graph 
+ when calling $ ./mymake -p makefile, print all targets with its dependencies and recipes
+ when calling $ ./mymake -r makefile, print the recipes in order of execution.
+ when calling $ ./mymake makefile, execute recipes in order to fulfill the first target.
+ when calling $ ./mymake makefile target, execute recipes in order to fulfill the given target
+
+• Any assumptions outside this document
+None
+
+• Extra credit
+Yes, the program has the functionality for extra credit
+
