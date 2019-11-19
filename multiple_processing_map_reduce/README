@@ -1,0 +1,29 @@
+/*test machine: CSEL_KH4250-45
+* date: 10/23/2019
+* name: Pengyin Chen
+*/
+
+• The purpose of your program
+
+The purpose of our program is:
+1) emulate map-reduce process
+2) traverse directories and files and spilt fils into mapper_i file
+3) mapper process read content of files and send info to pipes
+4) reducer receive info and put together and write into ReduceResult.txt file
+5) output result from ReduceResult to FinaLResult by using system calls
+
+• How to compile the program
+1）run terminal
+2）change to /src directory
+3）type "make"
+The makefile will automatically generate a executable mapreduce
+
+• What exactly your program does
+phase1: create folder, traverse directories and insert the filepath
+phase2: assign mapper processes with Mapper_i files, create a list of info and send it to pipes
+phase3: reducer process read from pipes and output to a file
+phase4: master process output to a final file by using system calls
+
+• Any assumptions outside this document
+None
+
