@@ -1,0 +1,1089 @@
+Writing
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 0
+ID: 11
+Passengers waiting: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 0
+ID: 28
+Passengers waiting: 0
+ID: 29
+Passengers waiting: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 0
+ID: 36
+Passengers waiting: 0
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0
+	Passengers (0): 
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 0
+ID: 11
+Passengers waiting: 1
+Name: Narhannitur
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 1
+Name: Xaniuvath
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 0
+ID: 28
+Passengers waiting: 0
+ID: 29
+Passengers waiting: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 1
+Name: Narorbisy
+Destination: 33
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 0
+ID: 36
+Passengers waiting: 0
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0.452458
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0.961379
+	Passengers (1): 
+Name: Narhannitur
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 1
+	Time on bus: 1
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 0
+ID: 11
+Passengers waiting: 1
+Name: Natrequio
+Destination: 13
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 12
+Passengers waiting: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 1
+Name: Nareducitur
+Destination: 24
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 1
+Name: Xaniuvath
+Destination: 26
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 0
+ID: 28
+Passengers waiting: 1
+Name: Natrapollorex
+Destination: 31
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 29
+Passengers waiting: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 1
+Name: Narorbisy
+Destination: 33
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 0
+ID: 36
+Passengers waiting: 0
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 4.33461
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0.45559
+	Passengers (1): 
+Name: Narhannitur
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 1
+	Time on bus: 2
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 1
+Name: Beladurus
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 11
+Passengers waiting: 1
+Name: Natrequio
+Destination: 13
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 12
+Passengers waiting: 1
+Name: Iuvimus
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 1
+Name: Nareducitur
+Destination: 24
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 1
+Name: Xaniuvath
+Destination: 26
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 0
+ID: 28
+Passengers waiting: 1
+Name: Natrapollorex
+Destination: 31
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 29
+Passengers waiting: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 1
+Name: Narorbisy
+Destination: 33
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 0
+ID: 36
+Passengers waiting: 0
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 3.33461
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 4.07127
+	Passengers (1): 
+Name: Narhannitur
+Destination: 17
+Total Wait: 4
+	Wait at Stop: 1
+	Time on bus: 3
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 1
+Name: Beladurus
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 11
+Passengers waiting: 1
+Name: Natrequio
+Destination: 13
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 12
+Passengers waiting: 1
+Name: Iuvimus
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 1
+Name: Nareducitur
+Destination: 24
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 1
+Name: Xaniuvath
+Destination: 26
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 1
+Name: Narequiimus
+Destination: 28
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 28
+Passengers waiting: 1
+Name: Natrapollorex
+Destination: 31
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 29
+Passengers waiting: 1
+Name: Evineptus
+Destination: 31
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 2
+Name: Narorbisy
+Destination: 33
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+Name: Humo
+Destination: 35
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 1
+Name: Xaneducorex
+Destination: 36
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 36
+Passengers waiting: 0
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 2.33461
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 3.07127
+	Passengers (1): 
+Name: Narhannitur
+Destination: 17
+Total Wait: 5
+	Wait at Stop: 1
+	Time on bus: 4
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 2
+Name: Beladurus
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Xanguiusox
+Destination: 14
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 11
+Passengers waiting: 1
+Name: Natrequio
+Destination: 13
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+ID: 12
+Passengers waiting: 1
+Name: Iuvimus
+Destination: 17
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 13
+Passengers waiting: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 1
+Name: Nareducitur
+Destination: 24
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 1
+Name: Xaneduco
+Destination: 24
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 2
+Name: Xaniuvath
+Destination: 26
+Total Wait: 5
+	Wait at Stop: 5
+	Time on bus: 0
+Name: Naramoraum
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 1
+Name: Narequiimus
+Destination: 28
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 28
+Passengers waiting: 2
+Name: Natrapollorex
+Destination: 31
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+Name: Xanadurum
+Destination: 29
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 29
+Passengers waiting: 1
+Name: Evineptus
+Destination: 31
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 3
+Name: Narorbisy
+Destination: 33
+Total Wait: 5
+	Wait at Stop: 5
+	Time on bus: 0
+Name: Humo
+Destination: 35
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Oculo
+Destination: 35
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 1
+Name: Xaneducorex
+Destination: 36
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 36
+Passengers waiting: 0
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 1.33461
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 2.07127
+	Passengers (1): 
+Name: Narhannitur
+Destination: 17
+Total Wait: 6
+	Wait at Stop: 1
+	Time on bus: 5
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 3
+Name: Beladurus
+Destination: 17
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+Name: Xanguiusox
+Destination: 14
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Natrineptum
+Destination: 16
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 11
+Passengers waiting: 1
+Name: Natrequio
+Destination: 13
+Total Wait: 5
+	Wait at Stop: 5
+	Time on bus: 0
+ID: 12
+Passengers waiting: 1
+Name: Iuvimus
+Destination: 17
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+ID: 13
+Passengers waiting: 1
+Name: Natrimacorex
+Destination: 17
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 1
+Name: Nareducitur
+Destination: 24
+Total Wait: 5
+	Wait at Stop: 5
+	Time on bus: 0
+ID: 19
+Passengers waiting: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 1
+Name: Xaneduco
+Destination: 24
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 3
+Name: Xaniuvath
+Destination: 26
+Total Wait: 6
+	Wait at Stop: 6
+	Time on bus: 0
+Name: Naramoraum
+Destination: 26
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Narimacy
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 2
+Name: Narequiimus
+Destination: 28
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Evamoraator
+Destination: 30
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 28
+Passengers waiting: 2
+Name: Natrapollorex
+Destination: 31
+Total Wait: 5
+	Wait at Stop: 5
+	Time on bus: 0
+Name: Xanadurum
+Destination: 29
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 29
+Passengers waiting: 2
+Name: Evineptus
+Destination: 31
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Eveducix
+Destination: 31
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 4
+Name: Narorbisy
+Destination: 33
+Total Wait: 6
+	Wait at Stop: 6
+	Time on bus: 0
+Name: Humo
+Destination: 35
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Oculo
+Destination: 35
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Hanno
+Destination: 34
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 2
+Name: Xaneducorex
+Destination: 36
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Nareducox
+Destination: 36
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 36
+Passengers waiting: 0
+Name: 1003
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0.971266
+	Passengers (2): 
+Name: Narequiimus
+Destination: 28
+Total Wait: 4
+	Wait at Stop: 3
+	Time on bus: 1
+Name: Evamoraator
+Destination: 30
+Total Wait: 2
+	Wait at Stop: 1
+	Time on bus: 1
+Name: 1002
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0.971266
+	Passengers (3): 
+Name: Beladurus
+Destination: 17
+Total Wait: 5
+	Wait at Stop: 4
+	Time on bus: 1
+Name: Xanguiusox
+Destination: 14
+Total Wait: 3
+	Wait at Stop: 2
+	Time on bus: 1
+Name: Natrineptum
+Destination: 16
+Total Wait: 2
+	Wait at Stop: 1
+	Time on bus: 1
+Name: 1001
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 0.334609
+	Passengers (0): 
+Name: 1000
+Speed: 1
+Bus Type: Medium
+Distance to next stop: 1.07127
+	Passengers (1): 
+Name: Narhannitur
+Destination: 17
+Total Wait: 7
+	Wait at Stop: 1
+	Time on bus: 6
+Name:  Campus Connector EastBound
+Num stops: 8
+		 vvvvv Next Stop vvvvv
+ID: 10
+Passengers waiting: 0
+ID: 11
+Passengers waiting: 1
+Name: Natrequio
+Destination: 13
+Total Wait: 6
+	Wait at Stop: 6
+	Time on bus: 0
+ID: 12
+Passengers waiting: 1
+Name: Iuvimus
+Destination: 17
+Total Wait: 5
+	Wait at Stop: 5
+	Time on bus: 0
+ID: 13
+Passengers waiting: 1
+Name: Natrimacorex
+Destination: 17
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 14
+Passengers waiting: 0
+ID: 15
+Passengers waiting: 0
+ID: 16
+Passengers waiting: 0
+ID: 17
+Passengers waiting: 0
+Name:  Campus Connector Express WestBound
+Num stops: 9
+		 vvvvv Next Stop vvvvv
+ID: 18
+Passengers waiting: 1
+Name: Nareducitur
+Destination: 24
+Total Wait: 6
+	Wait at Stop: 6
+	Time on bus: 0
+ID: 19
+Passengers waiting: 1
+Name: Evaesath
+Destination: 26
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 20
+Passengers waiting: 0
+ID: 21
+Passengers waiting: 0
+ID: 22
+Passengers waiting: 0
+ID: 23
+Passengers waiting: 1
+Name: Xaneduco
+Destination: 24
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 24
+Passengers waiting: 0
+ID: 25
+Passengers waiting: 3
+Name: Xaniuvath
+Destination: 26
+Total Wait: 7
+	Wait at Stop: 7
+	Time on bus: 0
+Name: Naramoraum
+Destination: 26
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Narimacy
+Destination: 26
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 26
+Passengers waiting: 0
+Name:  Campus Connector Express EastBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 27
+Passengers waiting: 0
+ID: 28
+Passengers waiting: 2
+Name: Natrapollorex
+Destination: 31
+Total Wait: 6
+	Wait at Stop: 6
+	Time on bus: 0
+Name: Xanadurum
+Destination: 29
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+ID: 29
+Passengers waiting: 2
+Name: Evineptus
+Destination: 31
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+Name: Eveducix
+Destination: 31
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 30
+Passengers waiting: 0
+ID: 31
+Passengers waiting: 0
+Name:  Campus Connector Express WestBoundExpress
+Num stops: 5
+		 vvvvv Next Stop vvvvv
+ID: 32
+Passengers waiting: 5
+Name: Narorbisy
+Destination: 33
+Total Wait: 7
+	Wait at Stop: 7
+	Time on bus: 0
+Name: Humo
+Destination: 35
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+Name: Oculo
+Destination: 35
+Total Wait: 3
+	Wait at Stop: 3
+	Time on bus: 0
+Name: Hanno
+Destination: 34
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+Name: Naranim
+Destination: 33
+Total Wait: 1
+	Wait at Stop: 1
+	Time on bus: 0
+ID: 33
+Passengers waiting: 0
+ID: 34
+Passengers waiting: 0
+ID: 35
+Passengers waiting: 2
+Name: Xaneducorex
+Destination: 36
+Total Wait: 4
+	Wait at Stop: 4
+	Time on bus: 0
+Name: Nareducox
+Destination: 36
+Total Wait: 2
+	Wait at Stop: 2
+	Time on bus: 0
+ID: 36
+Passengers waiting: 0

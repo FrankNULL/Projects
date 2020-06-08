@@ -1,0 +1,41 @@
+ROUTE_GENERAL, Campus Connector
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Oak Street at University Avenue, 44.975392, -93.226632, .025
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, .01
+STOP, Buford at Gortner Avenue, 44.984540, -93.181692, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE, West Bound
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, State Fairgrounds Lot S-108, 44.983703, -93.178846, .01
+STOP, Thompson Center & 23rd Avenue SE, 44.976397, -93.221801, .025
+STOP, Pleasant Street at Jones-Eddy Circle, 44.978366, -93.236038, .1
+STOP, Bruininks Hall, 44.974549, -93.236927, .3
+STOP, Blegen Hall, 44.972638, -93.243591, 0
+
+ROUTE_GENERAL, Campus Connector Express
+
+Stop Name, Long, Lat, Pass Gen Prob
+
+ROUTE, East Bound Express
+
+STOP, Blegen Hall, 44.972392, -93.243774, .15
+STOP, Coffman, 44.973580, -93.235071, .3
+STOP, Transitway at 23rd Avenue SE, 44.975837, -93.222174, .05
+STOP, State Fairgrounds Lot S-108, 44.983375, -93.178810, .01
+STOP, St. Paul Student Center, 44.984630, -93.186352, 0
+
+ROUTE, West Bound Express
+
+STOP, St. Paul Student Center, 44.984630, -93.186352, .35
+STOP, State Fairgrounds Lot S-108, 44.983703, -93.178846, .01
+STOP, Thompson Center & 23rd Avenue SE, 44.976397, -93.221801, .025
+STOP, Bruininks Hall, 44.974549, -93.236927, .3
+STOP, Blegen Hall, 44.972638, -93.243591, 0
